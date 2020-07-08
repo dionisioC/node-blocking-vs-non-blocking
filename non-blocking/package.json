@@ -1,0 +1,12 @@
+{
+  "name": "non-blocking",
+  "version": "1.0.0",
+  "description": "Example of non-blocking the main thread in node",
+  "main": "index.js",
+  "repository": "https://github.com/dionisioC/node-blocking-vs-non-blocking/non-blocking",
+  "author": "Dionisio Cortés Fernández",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
