@@ -13,9 +13,9 @@ Something like this should appear
 ```
 yarn run v1.22.4
 $ node index.js
+2186
 Are we sure?
-Time: 0s  4.092307 ms
 2186
-2186
-Done in 0.14s.
+Time: 0s  15.637186 ms
+Done in 0.12s.
 ```
